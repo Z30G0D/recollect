@@ -15,6 +15,12 @@ Recollect is a smart CLI tool for macOS that scans your computer for installed a
 
 ---
 
+## 🎬 Demo
+
+<img src="assets/screenshot_gif_repo.gif" alt="Recollect Demo" width="600"/>
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
