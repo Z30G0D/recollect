@@ -19,7 +19,7 @@ Recollect is a smart CLI tool for macOS that scans your computer for installed a
 
 ### 1. Clone the Repository
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/Z30G0D/recollect.git
 cd recollect
 ```
 
