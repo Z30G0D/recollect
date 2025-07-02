@@ -106,7 +106,7 @@ MIT License
 ## 🙏 Credits
 - [OpenAI](https://openai.com/) for the GPT API
 - [Python](https://python.org/)
-- [Your Name or GitHub]
+
 
 ---
 
